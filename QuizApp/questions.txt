@@ -1,0 +1,60 @@
+What is the capital of France?
+Paris
+London
+Berlin
+Rome
+Paris
+Which keyword is used to inherit a class in Java?
+this
+extends
+implements
+import
+extends
+What is the size of int in Java?
+4
+2
+8
+1
+4
+What is the default value of boolean in Java?
+true
+false
+null
+0
+false
+Which method is the entry point of Java programs?
+start()
+init()
+main()
+run()
+main()
+Which loop is guaranteed to execute at least once?
+for
+while
+do-while
+foreach
+do-while
+Which data structure uses FIFO?
+Stack
+Queue
+Tree
+Graph
+Queue
+What does JVM stand for?
+Java Virtual Machine
+Java Variable Method
+Java Verified Manager
+Java Vector Method
+Java Virtual Machine
+What is the parent class of all classes in Java?
+Object
+Class
+Main
+Super
+Object
+Which operator is used to compare two values?
+=
+!=
+==
++=
+==
