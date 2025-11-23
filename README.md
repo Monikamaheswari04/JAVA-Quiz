@@ -70,7 +70,7 @@ Example:
 
 ## ▶️ How to Run
 
-1.  Save the file as **JavaQuizApp.java**\
+1.  Save the file as **JavaQuizApp.java**
 2.  Compile the code:
 ``` 
 javac JavaQuizApp.java
