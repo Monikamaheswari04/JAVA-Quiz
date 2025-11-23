@@ -3,10 +3,10 @@
 A simple and interactive **Java Quiz Application** built using **Java
 Swing**, featuring:
 
--   Multiple-choice questions\
--   Countdown timer for each question\
--   Automatic question switching\
--   Final score calculation\
+-   Multiple-choice questions
+-   Countdown timer for each question
+-   Automatic question switching
+-   Final score calculation
 -   Performance-based feedback
 
 This project is ideal for beginners learning **Java GUI (Swing)** and
@@ -16,36 +16,36 @@ This project is ideal for beginners learning **Java GUI (Swing)** and
 
 ## 🎯 Features
 
--   ✔️ 10 Multiple-choice questions\
--   ✔️ 15-second timer per question\
--   ✔️ Auto-submit on timeout\
--   ✔️ Score calculation\
--   ✔️ Motivational comments based on performance\
+-   ✔️ 10 Multiple-choice questions
+-   ✔️ 15-second timer per question
+-   ✔️ Auto-submit on timeout
+-   ✔️ Score calculation
+-   ✔️ Motivational comments based on performance
 -   ✔️ Clean and responsive UI
 
 ------------------------------------------------------------------------
 
 ## 🧠 How the Quiz Works
 
-1.  Each question appears with 4 options.\
-2.  You have **15 seconds** to answer each question.\
-3.  If time runs out, it moves automatically to the next question.\
+1.  Each question appears with 4 options.
+2.  You have **15 seconds** to answer each question.
+3.  If time runs out, it moves automatically to the next question.
 4.  At the end, you get:
-    -   Score\
-    -   Percentage\
+    -   Score
+    -   Percentage
     -   Motivational feedback
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
-
+```
   Component        Technology
-  ---------------- ----------------------------------
+  ----------------  ----------------------------------
   Programming      Java
   GUI Framework    Swing
   Timer Handling   javax.swing.Timer
   OOP Concepts     Inheritance, Events, Collections
-
+```
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
@@ -72,23 +72,19 @@ Example:
 
 1.  Save the file as **JavaQuizApp.java**\
 2.  Compile the code:
-
-```{=html}
-<!-- -->
+``` 
+javac JavaQuizApp.java
 ```
-    javac JavaQuizApp.java
-
 3.  Run the quiz:
 
-```{=html}
-<!-- -->
 ```
-    java JavaQuizApp
+java JavaQuizApp
+```
 
 ------------------------------------------------------------------------
 
 ## 📝 Default Questions Included
-
+```
   No   Question
   ---- ---------------------------------------------------
   1    What is the capital of France?
@@ -101,23 +97,23 @@ Example:
   8    JVM stands for?
   9    Parent class of all Java classes?
   10   Operator to compare two values?
-
+```
 ------------------------------------------------------------------------
 
 ## 🌟 Future Enhancements
 
--   Add GUI themes\
--   Add sound effects\
--   Allow users to create custom quizzes\
--   Add score history\
+-   Add GUI themes
+-   Add sound effects
+-   Allow users to create custom quizzes
+-   Add score history
 -   Load questions from a file
 
 ------------------------------------------------------------------------
 
 ## 👩‍💻 Author
 
-**Monika A.D**\
-Java Beginner • AI & DS Student\
+**Monika A.D**
+Java Beginner • AI & DS Student
 (2025)
 
 ------------------------------------------------------------------------
